@@ -1,0 +1,7 @@
+.border{
+    background-color: aquamarine;
+    color: darkred;
+    border: 10px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 10px 10px;
+}
