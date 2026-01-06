@@ -1,0 +1,13 @@
+.hero-container{
+    display: flex;
+    background-color: bisque;
+}
+.hero-container img{
+    width: 100%;
+    height: 400px;
+}
+body{
+    max-width: 1270px;
+    background-color: cadetblue;
+    margin: 0 auto;
+}

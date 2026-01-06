@@ -1,0 +1,12 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin-right: 10px;
+}
+nav li:hover{
+    background-color: blueviolet;
+}
+nav li{
+    text-decoration: none;
+    list-style: none;
+}
